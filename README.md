@@ -1,1 +1,1 @@
-# MyLotteProject
+# LotteOnT_Team4
